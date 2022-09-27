@@ -1,4 +1,4 @@
 ---
 title: Infantils
-url: http://cps-inf-22-23.inergia.org/
+url: https://cps-inf.inergia.org/
 ---

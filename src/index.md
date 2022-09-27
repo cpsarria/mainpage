@@ -1,11 +1,10 @@
 ---
 title: CP Sarria
+logo: img/escut.png
 layout: "base.njk"
 ---
 
 ## Temporada Actual 
-
-![CP Sarria Logo](img/escut.png "CP Sarria")
 
 {% for site in collections.temporada %}
   [{{ site.data.title }}]({{ site.data.url }})

@@ -8,7 +8,9 @@
     </head>
     <body>
         <header>
-            <h1>{{ title }}</h1>
+            <h1>
+            <img src="{{ logo }}" alt="logo" title="{{ title }}">
+            {{ title }}</h1>
         </header>
         <main>
             {{ content | safe }}
